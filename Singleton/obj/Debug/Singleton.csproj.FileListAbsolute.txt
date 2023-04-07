@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Singleton\bin\Debug\Singleton.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Singleton\bin\Debug\Singleton.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Singleton\bin\Debug\Singleton.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Singleton\obj\Debug\Singleton.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Singleton\obj\Debug\Singleton.pdb
