@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Proxy\bin\Debug\Proxy.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Proxy\bin\Debug\Proxy.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Proxy\bin\Debug\Proxy.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Proxy\obj\Debug\Proxy.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Proxy\obj\Debug\Proxy.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Proxy\obj\Debug\Proxy.pdb
