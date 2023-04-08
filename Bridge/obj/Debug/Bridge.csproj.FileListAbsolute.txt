@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Bridge\bin\Debug\Bridge.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Bridge\bin\Debug\Bridge.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Bridge\bin\Debug\Bridge.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Bridge\obj\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Bridge\obj\Debug\Bridge.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Bridge\obj\Debug\Bridge.pdb
