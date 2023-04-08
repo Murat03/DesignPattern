@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Prorotype\bin\Debug\Prorotype.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Prorotype\bin\Debug\Prorotype.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Prorotype\bin\Debug\Prorotype.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Prorotype\obj\Debug\Prorotype.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Prorotype\obj\Debug\Prorotype.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Prorotype\obj\Debug\Prorotype.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Prorotype\obj\Debug\Prorotype.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Prorotype\obj\Debug\Prorotype.pdb

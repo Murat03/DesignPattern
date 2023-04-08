@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Builder\bin\Debug\Builder.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Builder\bin\Debug\Builder.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Builder\bin\Debug\Builder.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Builder\obj\Debug\Builder.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Builder\obj\Debug\Builder.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Builder\obj\Debug\Builder.pdb
