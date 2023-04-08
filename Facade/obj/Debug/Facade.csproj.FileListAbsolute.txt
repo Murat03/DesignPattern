@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Facade\bin\Debug\Facade.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Facade\bin\Debug\Facade.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Facade\bin\Debug\Facade.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Facade\obj\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Facade\obj\Debug\Facade.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Facade\obj\Debug\Facade.pdb
