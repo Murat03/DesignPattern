@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Observer\bin\Debug\Observer.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Observer\bin\Debug\Observer.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Observer\bin\Debug\Observer.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Observer\obj\Debug\Observer.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Observer\obj\Debug\Observer.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Observer\obj\Debug\Observer.pdb
