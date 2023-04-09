@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Command\bin\Debug\Command.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Command\bin\Debug\Command.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Command\bin\Debug\Command.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Command\obj\Debug\Command.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Command\obj\Debug\Command.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Command\obj\Debug\Command.pdb
