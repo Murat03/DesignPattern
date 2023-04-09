@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\TemplateMethod\obj\Debug\TemplateMethod.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\TemplateMethod\obj\Debug\TemplateMethod.pdb
