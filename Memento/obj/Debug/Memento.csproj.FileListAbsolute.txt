@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Memento\bin\Debug\Memento.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Memento\bin\Debug\Memento.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Memento\bin\Debug\Memento.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Memento\obj\Debug\Memento.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Memento\obj\Debug\Memento.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Memento\obj\Debug\Memento.pdb
