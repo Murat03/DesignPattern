@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Mediator\bin\Debug\Mediator.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Mediator\bin\Debug\Mediator.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Mediator\bin\Debug\Mediator.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Mediator\obj\Debug\Mediator.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Mediator\obj\Debug\Mediator.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Mediator\obj\Debug\Mediator.pdb
