@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Strategy\bin\Debug\Strategy.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Strategy\bin\Debug\Strategy.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Strategy\bin\Debug\Strategy.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Strategy\obj\Debug\Strategy.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Strategy\obj\Debug\Strategy.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\Strategy\obj\Debug\Strategy.pdb
