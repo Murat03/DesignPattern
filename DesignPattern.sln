@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "Depe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullObject", "NullObject\NullObject.csproj", "{B296C869-7666-4D65-B102-0CD14A15D054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiton", "Multiton\Multiton.csproj", "{E894D85D-8079-4184-9075-F2AA191E156F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{B296C869-7666-4D65-B102-0CD14A15D054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B296C869-7666-4D65-B102-0CD14A15D054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B296C869-7666-4D65-B102-0CD14A15D054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E894D85D-8079-4184-9075-F2AA191E156F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E894D85D-8079-4184-9075-F2AA191E156F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E894D85D-8079-4184-9075-F2AA191E156F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E894D85D-8079-4184-9075-F2AA191E156F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
