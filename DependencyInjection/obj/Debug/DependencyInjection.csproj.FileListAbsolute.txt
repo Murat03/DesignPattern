@@ -1,0 +1,11 @@
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\bin\Debug\DependencyInjection.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\bin\Debug\DependencyInjection.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\obj\Debug\DependencyInjection.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\obj\Debug\DependencyInjection.exe
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\obj\Debug\DependencyInjection.pdb
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\bin\Debug\Ninject.dll
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\bin\Debug\Ninject.xml
+D:\Yazilim\C#\CSharpCourse\DesignPattern\DependencyInjection\obj\Debug\DependencyInjection.csproj.CopyComplete
